@@ -5,7 +5,7 @@
 ## Usage
 
 ```puppet
-include Postbox
+include postbox
 ```
 
 ## Required Puppet Modules
