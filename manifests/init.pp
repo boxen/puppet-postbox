@@ -5,7 +5,7 @@
 #   include postbox
 class postbox {
   package { 'postbox':
-    provider => 'appdmg',
-    source => 'http://download.getpostbox.com.s3.amazonaws.com/installers/3.0.7/1_45019249cef6c9df058a92141b150f471334aab2/postbox-3.0.7-mac64.dmg'
+    provider => 'appdmg_eula',
+    source => 'http://download.getpostbox.com.s3.amazonaws.com/installers/3.0.8/2_8d9571a45ed7132c438b4c02e678dbd1838a7be5/postbox-3.0.8-mac64.dmg'
   }
 }
